@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-rna-transcription/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-rna-transcription/actions/workflows/ruby.yml)
+
 # Rna Transcription
 
 Given a DNA strand, return its RNA complement (per RNA transcription).
